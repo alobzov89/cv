@@ -24,6 +24,8 @@ I'm systems analysis professional, public speaker and author with more than 7 ye
 
 ## Public Speaking
 
+**Banks IT Day 2024**, Developer's tools and practices for technical documentation, Report (Ru)
+
 **Flow 2024 Autumn**, [Areas in Which an Analyst Can Apply LLM and Get a Boost to Their Productivity](https://flowconf.ru/en/talks/c8b411fa261144ebb4ee22c57c4e3647/), Discussion (Ru)
 
 **GigaConf 2024**, [Technical documentation review](https://gigaconf.ru/program), Report (RU)
