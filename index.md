@@ -10,11 +10,23 @@ I'm systems analysis professional, public speaker and author with more than 7 ye
 
 ## Skills
 
-**Areas of competence**: Business Analysis, Systems Analysis, People Management
+**Areas of competence**: Systems Analysis, Public Speaking
 
-**Languages**: SQL, UML
+**Languages**: SQL, UML, Markdown, Asciidoc
 
-**DevTools**: GitHub, BitBucket, Jira, Confluence, Microsoft SQL Management Studio
+**DevTools**: 
+
+* _Systems Analysis_: Google Chrome, Postman, Soap UI, DBeaver, pgAdmin
+
+* _Development Tasks Definition_: Confluence, Jira
+
+* _Solution Documentation_: BitBucket, IntelliJ IDEA
+
+## Volunteering
+
+**Aug. 2022 - Present**, Program Committee Member at [Flow - Conference on Systems and Business Analysis](https://flowconf.ru/) by JUG Ru Group
+
+**Jul. 2016 - Sep. 2019**, Secretary and Member at WorldSurfers - [Toastmasters International](https://www.toastmasters.org/) Club, Competent Communicator (CC), Competent Leader (CL)
 
 ## Education
 
